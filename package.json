@@ -1,0 +1,17 @@
+{
+  "name": "dmatch",
+  "version": "0.1.0",
+  "description": "A pattern matching library for Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": "Chris Stead",
+  "license": "MPL-2.0",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "gulp-mocha": "^2.2.0",
+    "mocha": "^2.4.5"
+  }
+}
